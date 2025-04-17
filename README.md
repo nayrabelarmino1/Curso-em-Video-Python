@@ -9,7 +9,7 @@ Seja muito bem-vindo(a) ao meu repositório dedicado aos estudos de **Python** a
 
 ## 📚 Sobre o Curso
 
-Este repositório contém os códigos, exercícios e anotações feitos ao longo do curso de **Python** – básico ! É um espaço de aprendizado, testes e muita prática.
+Este repositório contém os códigos, exercícios e anotações feitos ao longo do curso de **Python** – básico! É um espaço de aprendizado, testes e muita prática.
 
 ### 📌 Conteúdo que você vai encontrar aqui:
 - Sintaxe básica e estruturas de controle
